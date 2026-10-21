@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Wide Legged Forward Bend IV L yoga pose">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="62%"><stop offset="0%" stop-color="#ffffff" /><stop offset="100%" stop-color="#e8efe5" /></radialGradient>
+    <linearGradient id="skin" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f6c7a3" /><stop offset="100%" stop-color="#e2a57b" /></linearGradient>
+    <linearGradient id="skinBack" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#df9f74" /><stop offset="100%" stop-color="#c9885e" /></linearGradient>
+    <linearGradient id="shirt" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#4cb06b" /><stop offset="100%" stop-color="#2a7a47" /></linearGradient>
+    <linearGradient id="shirtBack" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#3a9158" /><stop offset="100%" stop-color="#1f6238" /></linearGradient>
+    <linearGradient id="shorts" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#2e3440" /><stop offset="100%" stop-color="#1b1f27" /></linearGradient>
+    <linearGradient id="shortsBack" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#212630" /><stop offset="100%" stop-color="#13161c" /></linearGradient>
+    <linearGradient id="hair" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#e2663a" /><stop offset="100%" stop-color="#b3401f" /></linearGradient>
+    <linearGradient id="hairBack" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#c9532c" /><stop offset="100%" stop-color="#8f3016" /></linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="28" fill="url(#bg)" />
+  <ellipse cx="100" cy="178.5" rx="52.9" ry="5" fill="#1b2520" fill-opacity="0.08" />
+  <g transform="translate(-25.00 -46.12) scale(1.2500 1.2500)">
+    <path d="M 103.7 93.4 Q 93.1 103.0 83.6 118.3 C 77.8 127.5 75.5 139.8 72.9 146.3 Q 74.0 150.3 77.8 148.5 C 81.0 142.4 88.0 132.2 91.6 123.9 Q 105.0 114.9 115.3 105.0 Q 114.7 94.0 103.7 93.4 Z" fill="url(#skinBack)" />
+    <path d="M 103.1 92.8 Q 97.7 98.8 92.9 105.4 Q 97.0 111.7 103.3 115.8 Q 109.9 111.0 115.9 105.6 Q 115.5 93.2 103.1 92.8 Z" fill="url(#shortsBack)" />
+    <path d="M 79.1 146.4 Q 81.1 149.2 80.5 152.0 Q 71.8 152.6 61.8 151.8 Q 62.5 148.6 68.8 147.4 L 71.7 146.4 Q 75.3 147.7 79.1 146.4 Z" fill="url(#skinBack)" />
+    <path d="M 80.4 151.2 Q 71.3 151.4 62.1 150.8 Q 61.5 153.2 71.3 153.6 Q 80.6 153.4 80.4 151.2 Z" fill="#c98a60" />
+    <path d="M 112.7 140.5 Q 101.9 142.6 90.7 147.8 Q 84.6 145.8 70.6 145.4 Q 67.6 143.7 62.0 146.6 Q 65.2 149.6 69.7 150.1 Q 83.1 154.1 91.0 155.0 Q 104.6 152.9 115.3 149.9 Q 119.0 143.9 112.7 140.5 Z" fill="url(#skinBack)" />
+    <path d="M 112.6 139.8 Q 107.3 141.2 102.3 143.1 Q 102.4 148.3 104.9 152.9 Q 110.2 152.0 115.4 150.6 Q 120.2 143.5 112.6 139.8 Z" fill="url(#shirtBack)" />
+    <path d="M 100.0 177.5 C 89.8 176.9 89.2 163.7 91.5 156.2 Q 100.0 159.7 108.5 156.2 C 110.8 163.7 110.2 176.9 100.0 177.5 Z" fill="url(#hairBack)" />
+    <path d="M 104.0 162.7 Q 103.8 153.2 104.8 146.7 Q 100.0 144.0 95.4 146.4 Q 96.4 153.0 96.8 162.2 Q 100.5 164.2 104.0 162.7 Z" fill="url(#skin)" />
+    <path d="M 100.0 175.9 C 94.8 175.9 91.8 172.9 91.8 169.2 Q 91.4 165.7 92.8 161.5 Q 95.8 158.5 100.0 157.2 Q 104.2 158.5 107.2 161.5 C 108.6 165.7 108.2 169.2 108.2 169.2 C 108.2 172.9 105.2 175.9 102.5 175.9 Q 101.0 176.0 100.0 175.9 Z" fill="url(#skin)" />
+    <path d="M 91.4 167.5 C 90.8 174.5 100.0 177.7 107.8 175.1 C 109.5 172.7 109.2 170.2 108.8 167.5 Q 108.0 168.9 107.2 170.5 Q 105.2 172.5 102.8 173.1 C 99.5 172.9 96.2 171.9 93.5 170.5 Q 92.2 169.1 91.4 167.5 Z" fill="url(#hair)" />
+    <path d="M 104.4 166.7 L 102.0 166.7 L 103.2 165.9 Z M 98.0 166.7 L 95.6 166.7 L 96.8 165.9 Z" fill="#6e4f28" />
+    <path d="M 112.2 108.7 Q 115.7 99.2 105.5 91.0 Q 100.0 89.5 94.5 91.0 Q 84.3 99.2 87.8 108.7 Z" fill="url(#shorts)" />
+    <path d="M 105.2 150.7 Q 108.9 149.4 116.2 146.7 C 113.0 131.8 111.5 108.7 114.4 104.2 Q 100.0 101.9 85.6 104.2 C 88.5 108.7 87.0 131.8 83.8 146.7 Q 91.1 149.4 94.8 150.7 Q 100.0 148.2 105.2 150.7 Z" fill="url(#shirt)" />
+    <path d="M 105.2 150.7 Q 100.0 142.0 94.8 150.7 Q 100.0 147.7 105.2 150.7 Z" fill="url(#skin)" />
+    <path d="M 84.7 105.0 Q 95.0 114.9 108.4 123.9 C 112.0 132.2 119.0 142.4 122.2 148.5 Q 126.0 150.3 127.1 146.3 C 124.5 139.8 122.2 127.5 116.4 118.3 Q 106.9 103.0 96.3 93.4 Q 85.3 94.0 84.7 105.0 Z" fill="url(#skin)" />
+    <path d="M 84.1 105.6 Q 90.1 111.0 96.7 115.8 Q 103.0 111.7 107.1 105.4 Q 102.3 98.8 96.9 92.8 Q 84.5 93.2 84.1 105.6 Z" fill="url(#shorts)" />
+    <path d="M 120.9 146.4 Q 118.9 149.2 119.5 152.0 Q 128.2 152.6 138.2 151.8 Q 137.5 148.6 131.2 147.4 L 128.3 146.4 Q 124.7 147.7 120.9 146.4 Z" fill="url(#skin)" />
+    <path d="M 119.6 151.2 Q 128.7 151.4 137.9 150.8 Q 138.5 153.2 128.7 153.6 Q 119.4 153.4 119.6 151.2 Z" fill="#d9996c" />
+    <path d="M 84.7 149.9 Q 95.4 152.9 109.0 155.0 Q 116.9 154.1 130.3 150.1 Q 134.8 149.6 138.0 146.6 Q 132.4 143.7 129.4 145.4 Q 115.4 145.8 109.3 147.8 Q 98.1 142.6 87.3 140.5 Q 81.0 143.9 84.7 149.9 Z" fill="url(#skin)" />
+    <path d="M 84.6 150.6 Q 89.8 152.0 95.1 152.9 Q 97.6 148.3 97.7 143.1 Q 92.7 141.2 87.4 139.8 Q 79.8 143.5 84.6 150.6 Z" fill="url(#shirt)" />
+  </g>
+</svg>
